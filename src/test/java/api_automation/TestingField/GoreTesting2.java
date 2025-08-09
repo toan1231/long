@@ -7,7 +7,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class GoreTesting2 extends TestBase {
+public class GoreTesting2 {
 
     @Test()
     public void user_create_requestData()  {
