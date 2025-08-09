@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-09T19:10:30 EDT" name="All Test Suite" finished-at="2025-08-09T19:10:30 EDT" duration-ms="202">
+    <groups>
+    </groups>
+    <test started-at="2025-08-09T19:10:30 EDT" name="C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting1.java" finished-at="2025-08-09T19:10:30 EDT" duration-ms="76">
+      <class name="api_automation.TestingField.GoreTesting1">
+        <test-method signature="user_create_requestData()[pri:0, instance:api_automation.TestingField.GoreTesting1@409bf450]" started-at="2025-08-09T19:10:30 EDT" name="user_create_requestData" finished-at="2025-08-09T19:10:30 EDT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_create_requestData -->
+      </class> <!-- api_automation.TestingField.GoreTesting1 -->
+    </test> <!-- C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting1.java -->
+    <test started-at="2025-08-09T19:10:30 EDT" name="C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting2.java" finished-at="2025-08-09T19:10:30 EDT" duration-ms="4">
+      <class name="api_automation.TestingField.GoreTesting2">
+        <test-method signature="user_create_requestData()[pri:0, instance:api_automation.TestingField.GoreTesting2@5542c4ed]" started-at="2025-08-09T19:10:30 EDT" name="user_create_requestData" finished-at="2025-08-09T19:10:30 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_create_requestData -->
+      </class> <!-- api_automation.TestingField.GoreTesting2 -->
+    </test> <!-- C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting2.java -->
+    <test started-at="2025-08-09T19:10:30 EDT" name="C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting3.java" finished-at="2025-08-09T19:10:30 EDT" duration-ms="6">
+      <class name="api_automation.TestingField.GoreTesting3">
+        <test-method signature="user_create_requestData()[pri:0, instance:api_automation.TestingField.GoreTesting3@44c03695]" started-at="2025-08-09T19:10:30 EDT" name="user_create_requestData" finished-at="2025-08-09T19:10:30 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_create_requestData -->
+      </class> <!-- api_automation.TestingField.GoreTesting3 -->
+    </test> <!-- C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting3.java -->
+    <test started-at="2025-08-09T19:10:30 EDT" name="C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting4.java" finished-at="2025-08-09T19:10:30 EDT" duration-ms="4">
+      <class name="api_automation.TestingField.GoreTesting4">
+        <test-method signature="user_create_requestData()[pri:0, instance:api_automation.TestingField.GoreTesting4@2f4948e4]" started-at="2025-08-09T19:10:30 EDT" name="user_create_requestData" finished-at="2025-08-09T19:10:30 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_create_requestData -->
+      </class> <!-- api_automation.TestingField.GoreTesting4 -->
+    </test> <!-- C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting4.java -->
+    <test started-at="2025-08-09T19:10:30 EDT" name="C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting5.java" finished-at="2025-08-09T19:10:30 EDT" duration-ms="5">
+      <class name="api_automation.TestingField.GoreTesting5">
+        <test-method signature="user_create_requestData()[pri:0, instance:api_automation.TestingField.GoreTesting5@5aa9e4eb]" started-at="2025-08-09T19:10:30 EDT" name="user_create_requestData" finished-at="2025-08-09T19:10:30 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_create_requestData -->
+      </class> <!-- api_automation.TestingField.GoreTesting5 -->
+    </test> <!-- C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting5.java -->
+    <test started-at="2025-08-09T19:10:30 EDT" name="C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting6.java" finished-at="2025-08-09T19:10:30 EDT" duration-ms="5">
+      <class name="api_automation.TestingField.GoreTesting6">
+        <test-method signature="user_create_requestData()[pri:0, instance:api_automation.TestingField.GoreTesting6@682b2fa]" started-at="2025-08-09T19:10:30 EDT" name="user_create_requestData" finished-at="2025-08-09T19:10:30 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_create_requestData -->
+      </class> <!-- api_automation.TestingField.GoreTesting6 -->
+    </test> <!-- C:/Users/chaut/IdeaProjects/api_trustvisitor/src/test/java/api_automation/TestingField/GoreTesting6.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
