@@ -1,11 +1,6 @@
-api_automation\TestingField\GoreTesting7.class
+api_automation\requestBuilder\GoreRequestBuilder.class
 api_automation\TestingField\GoreTesting2.class
+api_automation\utils\TestBase.class
 api_automation\dataProviderClass\GorestDataProviderClass.class
-api_automation\TestingField\GoreTesting6.class
-api_automation\TestingField\GoreTesting5.class
 api_automation\TestingField\GoreTesting1.class
 api_automation\utils\Log.class
-api_automation\requestBuilder\GoreRequestBuilder.class
-api_automation\TestingField\GoreTesting4.class
-api_automation\utils\TestBase.class
-api_automation\TestingField\GoreTesting3.class
